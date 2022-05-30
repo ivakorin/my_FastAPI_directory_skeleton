@@ -24,6 +24,8 @@ Your app name
    │  └── __init__.py
    ├── schemas
    │  └── __init__.py
+   ├── views
+   │  └── __init__.py
    └── templates
        └── index.j2
 """)

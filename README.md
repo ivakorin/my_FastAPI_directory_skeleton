@@ -14,7 +14,6 @@ chmod +x fast_api_skeleton.py
 
 ### Структура каталогов:
 ```
-Your app name
 ├── __init__.py
 ├── api
 │  ├── __init__.py
@@ -31,6 +30,8 @@ Your app name
    ├── models
    │  └── __init__.py
    ├── schemas
+   │  └── __init__.py
+   ├── views
    │  └── __init__.py
    └── templates
        └── index.j2
