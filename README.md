@@ -16,24 +16,24 @@ chmod +x fast_api_skeleton.py
 ```
 ├── __init__.py
 ├── api
-│  ├── __init__.py
-│  └── api_v1
-│     ├── __init__.py
-│     └── endpoints
-│        └── __init__.py
+│   ├── __init__.py
+│   └── api_v1
+│       ├── __init__.py
+│       └── endpoints
+│           └── __init__.py
 └── core
-   └── __init__.py
-   ├── crud
-   │  └── __init__.py
-   ├── db
-   │  └── __init__.py
-   ├── models
-   │  └── __init__.py
-   ├── schemas
-   │  └── __init__.py
-   ├── views
-   │  └── __init__.py
-   └── templates
-       └── index.j2
+    └── __init__.py
+    ├── crud
+    │   └── __init__.py
+    ├── db
+    │   └── __init__.py
+    ├── models
+    │   └── __init__.py
+    ├── schemas
+    │   └── __init__.py
+    ├── views
+    │   └── __init__.py
+    └── templates
+        └── index.j2
 ```
 
